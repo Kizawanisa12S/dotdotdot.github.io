@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    echo "123123123123";
+    <?php 
+        echo "123123123123";
+    php>
 </body>
 </html>
